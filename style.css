@@ -1,0 +1,13 @@
+body {
+  background-color: #1e2022;
+}
+
+h1 {
+  font-family: 'New Rocker', cursive;
+  color: rgb(148, 17, 17);
+}
+
+.card {
+  color: #52616b;
+  background-color: #c9d6df;
+}
