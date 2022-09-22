@@ -1,10 +1,15 @@
 body {
-  background-color: #1e2022;
+  background: #283048;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #859398, #283048);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #859398, #283048);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 h1 {
   font-family: 'New Rocker', cursive;
-  color: rgb(148, 17, 17);
+  color: rgb(70, 28, 28);
 }
 
 .card {
